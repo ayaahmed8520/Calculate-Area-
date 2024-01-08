@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب المساحه</string>
+
+    <string-array name="shapes">
+        <item>اختر الشكل الهندسي</item>
+        <item>مستطيل</item>
+        <item>دائره</item>
+        <item>مثلث</item>
+    </string-array>
+
+    <string name="result_Area">الناتج</string>
+    <string name="rectangle_width">عرض المستطيل</string>
+    <string name="rectangle_height">ارتفاع المستطيل</string>
+    <string name="triangle_height">ارتفاع المثلث</string>
+    <string name="triangle_base">طول القاعده</string>
+    <string name="Circle_radius">نصف القطر</string>
+    <string name="calculateArea">حساب المساحه</string>
+</resources>

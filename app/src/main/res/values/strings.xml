@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">calculateArea</string>
+    <string-array name="shapes">
+        <item>Select Shape</item>
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Triangle</item>
+    </string-array>
+
+    <string name="result_Area">Result</string>
+    <string name="rectangle_width">Rectangle Width</string>
+    <string name="rectangle_height">Rectangle Height</string>
+    <string name="triangle_height">Triangle Height</string>
+    <string name="triangle_base">Triangle Base</string>
+    <string name="Circle_radius">Circle Radius</string>
+    <string name="calculateArea">Calculate Area</string>
+</resources>
